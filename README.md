@@ -1,4 +1,4 @@
-#  MT5 Trade Simulator
+#  Python Metatrader 5 Trade Simulator
 
 An effective trade simulation tool for evaluating real trading performance under historical market conditions.
 
