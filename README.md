@@ -28,11 +28,3 @@ Ideal for **backtesting**, **trade journaling**, and **strategy refinement** usi
 
 ---
 
-## Setup
-
-To get started:
-
-1. Install the required dependencies:
-
-   ```bash
-   pip install MetaTrader5 pandas 
